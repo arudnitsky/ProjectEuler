@@ -1,0 +1,14 @@
+[Oo]bj/
+[Bb]in/
+*.suo
+*.user
+TestResults
+*.vspscc
+*.vssscc
+*.dotCover
+*.ncrunchsolution
+*.crunchsolution*
+*_Resharper*
+*.vsmdi
+*.ncrunchproject
+testimpactdata.sdf
