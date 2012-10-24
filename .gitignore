@@ -12,3 +12,4 @@ TestResults
 *.vsmdi
 *.ncrunchproject
 testimpactdata.sdf
+*.testsettings
